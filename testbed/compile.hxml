@@ -1,0 +1,4 @@
+-main Main
+-swf9 out.swf
+-swf-header 640:360:30:414647
+-cp ../
